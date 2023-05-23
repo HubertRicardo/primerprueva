@@ -1,3 +1,0 @@
-este es mi primer texto solo seria antes de entrar a la stage
-este cambio se realizara en y volvera a salir del stage la linea
-que ya habia sido commitseada.
