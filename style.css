@@ -13,3 +13,8 @@ body #content p{
     justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+body #cabecera {
+    color: darkcyan;
+    background-color: bisque;
+}
