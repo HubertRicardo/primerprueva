@@ -17,4 +17,17 @@ body #content p{
 body #cabecera {
     color: darkcyan;
     background-color: bisque;
+    margin: 50px;
+    padding: 30px;
+    
+}
+
+body #cabecera li{
+    list-style: none;
+    margin: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: rgb(87, 138, 10);
+    font-size: 30px;
 }
